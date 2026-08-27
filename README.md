@@ -35,9 +35,6 @@
 - 分析機能：
 蓄積した振り返り結果から、月毎の進捗や「達成した理由」「未達成だった理由」の傾向を確認できます
 
-
-## 4. 使用技術
-
 ## 4. 使用技術
 
 | 分類 | 技術 |
@@ -79,10 +76,10 @@ Spring Bootを中心としたWebアプリケーションとして構成してい
 - [テーブル定義](docs/external-design/table-definition.pdf)
 
 ## 8. 設計成果物
-## 8. 設計成果物
 
 | 成果物 | 内容 |
 |---|---|
+| [要件定義書](docs/requirement/requiremenet.pdf) | 要件定義 |
 | [システム構成図](docs/external-design/system-architecture.pdf) | システム全体の構成 |
 | [画面一覧](docs/external-design/screen-list.pdf) | 使用する画面と役割 |
 | [画面遷移図](docs/external-design/screen-transition.pdf) | 画面間の遷移 |
